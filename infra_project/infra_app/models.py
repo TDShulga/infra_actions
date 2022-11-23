@@ -1,1 +1,0 @@
-### Test with flake8 and django tests
